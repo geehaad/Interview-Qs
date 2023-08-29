@@ -1,4 +1,4 @@
-# Interview-Qs
+# Technical-QS
 
 I have collected the Questions that helped me get several data job' offers, <br>
 including: <br>
