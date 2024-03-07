@@ -7,3 +7,6 @@ including: <br>
 - Machine learning Engineer, <br>
 - NLP Engineer, <br>
 - Data Engineer.
+
+
+Note that the answers provided are simply notes intended to serve as a <b> quick reminder</b>, and may not always be the definitive answer.
